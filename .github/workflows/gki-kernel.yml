@@ -139,7 +139,7 @@ jobs:
           cd susfs4ksu
           git reset --hard 711a904a
           cd ..
-          git clone https://github.com/WildPlusKernel/kernel_patches.git
+          git clone https://github.com/MiRinChan/kernel_patches.git
 
       - name: Set CONFIG Environment Variable
         run: |
